@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vipin</h1>
 <h2 align="center">A data science and AI engineering enthusiast from India.</h2>
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/ea1d8f76da965e6d516eb8c5aabedda58231ef1a1b480f902a1362a04bbaa01f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a7a566e574a7479474f585f6b5549446d3663634366512e676966" />
+
 
 
 
