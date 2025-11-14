@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Transformer Models, MLOps**
+- 🌱 I’m currently learning **Transformer Models, MLOps,Kaggle **
 
 - 💬 Ask me about **Python, Machine Learning, AI Automation,Deep Learning**
 
