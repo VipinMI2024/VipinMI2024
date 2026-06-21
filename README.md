@@ -6,7 +6,7 @@
 **Infosys Global Hackathon — Semi-Finalist**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vipinmishra2023)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipinmi2019@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vipinmi2019@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VipinMI2024)
 
 </div>
@@ -69,6 +69,6 @@
 
 <div align="center">
 
-Reach me: **vipinmi2019@gmail.com**
+Reach me: [**vipinmi2019@gmail.com**](https://mail.google.com/mail/?view=cm&fs=1&to=vipinmi2019@gmail.com)
 
 </div>
