@@ -26,7 +26,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/VipinMI2024/awesome-mcp-servers-sales-automation">Awesome MCP Servers for Sales Automation</a></h4>
+<h4><a href="https://github.com/VipinMI2024/awesome-mcp-servers">Awesome MCP Servers for Sales Automation</a></h4>
 <p>The MCP + sales automation list devs actually star. 100+ servers, zero fluff, built with a Gemini CLI pipeline so it never goes stale.</p>
 <code>MCP</code> <code>Automation</code> <code>Sales-Tech</code>
 </td>
